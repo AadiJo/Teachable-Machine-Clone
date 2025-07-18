@@ -114,10 +114,3 @@ A powerful classifier that finds optimal boundaries between classes.
 
 A deep learning model that can capture complex patterns in data.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the MIT License.
