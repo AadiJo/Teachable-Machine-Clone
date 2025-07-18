@@ -1,0 +1,15 @@
+{
+  "name": "teachable-machine-clone",
+  "version": "1.0.0",
+  "description": "A Teachable Machine clone for images with Python backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start-backend": "python app.py",
+    "dev": "echo 'Starting Python backend and Node.js server in separate terminals' && echo 'First run: npm run start-backend' && echo 'Then in another terminal: npm start'"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}

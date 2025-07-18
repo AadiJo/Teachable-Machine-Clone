@@ -1,0 +1,8 @@
+flask
+flask-cors
+opencv-python
+tensorflow[gpu]
+scikit-learn
+joblib
+numpy
+pillow
