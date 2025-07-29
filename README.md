@@ -114,3 +114,7 @@ A powerful classifier that finds optimal boundaries between classes.
 
 A deep learning model that can capture complex patterns in data.
 
+## Todo
+- Pose model
+- Sound model
+
