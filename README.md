@@ -8,7 +8,6 @@ A clone of Google's Teachable Machine that uses webcam input to train various ma
 - Train multiple types of machine learning models:
   - K-Nearest Neighbors (KNN)
   - Support Vector Machine (SVM)
-  - Neural Network
 - Real-time predictions with confidence scores
 - Visual confidence indicators for each class
 
@@ -117,4 +116,5 @@ A deep learning model that can capture complex patterns in data.
 ## Todo
 - Pose model
 - Sound model
+
 
